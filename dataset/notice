@@ -1,0 +1,1 @@
+Please join the `lance_train.json.part*` files by command: `cat lance_train.json.part00 lance_train.json.part01 lance_train.json.part02 > lance_train.json` first!

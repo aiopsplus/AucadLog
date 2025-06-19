@@ -1,0 +1,8 @@
+dataset/aucad_log.json filter=lfs diff=lfs merge=lfs -text
+dataset/lance_train.json.part00 filter=lfs diff=lfs merge=lfs -text
+dataset/lance_train.json.part01 filter=lfs diff=lfs merge=lfs -text
+dataset/lance_train.json.part02 filter=lfs diff=lfs merge=lfs -text
+dataset/lance_test.json filter=lfs diff=lfs merge=lfs -text
+dataset/lance_valid.json filter=lfs diff=lfs merge=lfs -text
+dataset/lance_prompt_unilog.json filter=lfs diff=lfs merge=lfs -text
+dataset/logbench-t_test.json filter=lfs diff=lfs merge=lfs -text
