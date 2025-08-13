@@ -25,5 +25,18 @@ The original response is available in [original_response](original_response).
 ## Citation
 
 ```bibtex
-TBD
+@inproceedings{zhang2025aucad,
+  author = {Hao Zhang and Dongjun Yu and Lei Zhang and Guoping Rong and Yongda Yu and Haifeng Shen and He Zhang and Dong Shao and Hongyu Kuang},
+  title = {AUCAD: Automated Construction of Alignment Dataset from Log-Related Issues for Enhancing LLM-based Log Generation},
+  booktitle = {Proceedings of the 16th International Conference on Internetware},
+  series = {Internetware 2025},
+  year = {2025},
+  month = {June},
+  pages = {13},
+  publisher = {ACM},
+  address = {New York, NY, USA},
+  location = {Trondheim, Norway},
+  doi = {10.1145/3755881.3755889},
+  url = {https://doi.org/10.1145/3755881.3755889}
+}
 ```
