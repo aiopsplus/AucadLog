@@ -1,6 +1,6 @@
 # AUCAD: Automated Construction of Alignment Dataset from Log-Related Issues for Enhancing LLM-based Log Generation
 
-This replication package contains supplementary material for the paper "AUCAD: Automated Construction of Alignment Dataset from Log-Related Issues for Enhancing LLM-based Log Generation".
+This replication package contains supplementary material for the paper ["AUCAD: Automated Construction of Alignment Dataset from Log-Related Issues for Enhancing LLM-based Log Generation"](https://dl.acm.org/doi/pdf/10.1145/3755881.3755889).
 
 ## Dataset
 
@@ -26,17 +26,20 @@ The original response is available in [original_response](original_response).
 
 ```bibtex
 @inproceedings{zhang2025aucad,
-  author = {Hao Zhang and Dongjun Yu and Lei Zhang and Guoping Rong and Yongda Yu and Haifeng Shen and He Zhang and Dong Shao and Hongyu Kuang},
-  title = {AUCAD: Automated Construction of Alignment Dataset from Log-Related Issues for Enhancing LLM-based Log Generation},
+  author = {Zhang, Hao and Yu, Dongjun and Zhang, Lei and Rong, Guoping and Yu, Yongda and Shen, Haifeng and Zhang, He and Shao, Dong and Kuang, Hongyu},
+  title = {{AUCAD}: Automated Construction of Alignment Dataset from Log-Related Issues for Enhancing {LLM}-based Log Generation},
   booktitle = {Proceedings of the 16th International Conference on Internetware},
-  series = {Internetware 2025},
+  keywords = {LLM, Log Statement Generation, Log-related Issues, Alignment},
+  series = {Internetware '25},
   year = {2025},
   month = {June},
-  pages = {13},
-  publisher = {ACM},
+  pages = {413–425},
+  numpages = {13},
+  publisher = {Association for Computing Machinery},
   address = {New York, NY, USA},
   location = {Trondheim, Norway},
   doi = {10.1145/3755881.3755889},
+  isbn = {9798400719264},
   url = {https://doi.org/10.1145/3755881.3755889}
 }
 ```
